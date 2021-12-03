@@ -27,4 +27,4 @@ platform:
 fips: false
 
 pullSecret: '{"auths":{"fake":{"auth": "bar"}}}' 
-sshKey: 'ssh-ed25519 AAAA...'   
+sshKey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXnYKYcsBUWKH+DrxOK7ZqYFhWjiIi6e4sCyaxitvqi4YBTKt4ZDK6EbqFzjVASKGcION5fhUfvZSks/v8z0geAn2Lgl2QrB5m3eNRAUlxoq0ytoeuLf4cuhEN8/VYgg0VZYBDQq6Frzsr7dU8LXbphzHDuFnlxXbje3LUeYaZHyt0BIpazCGZUOgFhfuvLgp5OumOBAIKLbuiV0N3uQbnsZt2uoQwpGy9CYjje0w2Sjv/hcuXfH4GZ0C+jCq2URr37x5LWVFDDgUn6pKoCKB9kER9ugee5/ZWuXhLOPhr4rGb5JDGxkRPq3YZXY9Os0drvRCqne8uPnsSnX8P1QS/8gLj6tA+0ISEz/3bwMV8tHWUT3lk8WyFBHZNQu/AEy+oI4KJVUFR7FK8CQYkVqdqbBMclhF2av75/sernl3RYMo3LMziJJYQ3/pe3QgutFuP8/Gq5kRFDVDEm8laKbkIvpugzwmnn2fkfa7LMLzTv66lpugMECTlKq1enNlHIGk= root@okd4-services'   
